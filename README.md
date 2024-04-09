@@ -2,6 +2,11 @@
 
 La durée du test est de 30 minutes.
 
+## Partie GitHub
+- Clonez le projet.
+- Créez et publiez une nouvelle branche avec votre nom et prénom.
+- À la fin du projet, faites un commit sur la branche créée au début du test.
+
 ## Partie HTML
 
 ### Structure de base : 
