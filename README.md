@@ -39,7 +39,7 @@ Utilisez CSS pour styliser la page selon les directives suivantes :
 ### Validation du formulaire :
 Utilisez JavaScript pour valider le formulaire de contact avant de le soumettre :
 - Assurez-vous que tous les champs sont remplis avant de permettre la soumission.
-- Affichez des messages d'erreur appropriés si les champs sont laissés vides ou si l'e-mail n'est pas au bon format.
+- Affichez des alerte d'erreur appropriés si les champs sont laissés vides ou si l'e-mail n'est pas au bon format.
 
 ### Feedback utilisateur :
 Si le formulaire est soumis avec succès, affichez un message de confirmation en haut de la page :
