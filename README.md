@@ -34,11 +34,6 @@ Utilisez CSS pour styliser la page selon les directives suivantes :
 - Utiliser la couleur : #181818 pour le reste des textes.
 - Stylez le formulaire de contact de manière claire et intuitive.
 
-### Media Queries :
-Ajoutez des media queries pour rendre la mise en page réactive :
-- Assurez-vous que la mise en page s'adapte correctement aux appareils mobiles et tablettes.
-- Utilisez des techniques de mise en page adaptative pour réorganiser les éléments selon la taille de l'écran.
-
 ## Partie JavaScript
 
 ### Validation du formulaire :
