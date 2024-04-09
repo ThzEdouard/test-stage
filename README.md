@@ -32,7 +32,7 @@ Utilisez CSS pour styliser la page selon les directives suivantes :
 - Utiliser la couleur : #0c1153 pour le `<h1>` de la page et les `<label>` du formulaire.
 - Utiliser la couleur : #e8636e pour le hover des `<a>` et du bouton de soumission.
 - Utiliser la couleur : #181818 pour le reste des textes.
-- Stylez le formulaire de contact de manière claire et intuitive.
+- Stylez comme vous le souhaitez le formulaire de contact.
 
 ## Partie JavaScript
 
